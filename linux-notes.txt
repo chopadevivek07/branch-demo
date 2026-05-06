@@ -1,0 +1,5 @@
+pwd-> print working directory
+ls-> list the content of directory
+cd-> change the directory
+mkdir-> make directory
+
